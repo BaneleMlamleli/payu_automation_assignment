@@ -12,6 +12,7 @@
 
 # editor folders
 .vscode
+.idea
 
 # Reports
 target/
