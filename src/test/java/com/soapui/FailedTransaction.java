@@ -11,8 +11,8 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class FailedTransaction extends BaseClass {
-    // https://staging.payu.co.za/rpp.do?PayUReference=34537724660993
-    static final String payUReference = "34537724660993";
+    // https://staging.payu.co.za/rpp.do?PayUReference=34538050042453
+    static final String payUReference = "34538050042453";
 
     @Test
     public void testFailedTransactionUserJourney() {

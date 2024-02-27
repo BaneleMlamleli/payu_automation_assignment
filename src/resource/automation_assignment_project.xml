@@ -3531,7 +3531,7 @@
          <Api>ONE_ZERO</Api>
          <Safekey>{0BBB9E17-F40D-447F-8453-EEC7DDE6F721}</Safekey>
          <AdditionalInformation>
-               <payUReference>34466106046325</payUReference>
+               <payUReference>34537878298385</payUReference>
          </AdditionalInformation>
       </soap:getTransaction>
    </soapenv:Body>
@@ -3551,7 +3551,7 @@
          <Api>ONE_ZERO</Api>
          <Safekey>{0BBB9E17-F40D-447F-8453-EEC7DDE6F721}</Safekey>
          <AdditionalInformation>
-               <payUReference>34294482295153</payUReference>
+               <payUReference>34537939836783</payUReference>
          </AdditionalInformation>
       </soap:getTransaction>
    </soapenv:Body>
